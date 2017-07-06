@@ -1,0 +1,28 @@
+{
+  "name": "fis-preprocessor-defines",
+  "version": "1.1.0",
+  "description": "A preprocessor plugin for fis2 to replace define variables.",
+  "keywords": [
+    "fis2",
+    "fis2-preprocessor-defines",
+    "fis2-preprocessor",
+    "defines",
+    "preprocessor"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuguixin/fis-preprocessor-defines.git"
+  },
+  "author": "chuguixin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuguixin/fis-preprocessor-defines/issues"
+  },
+  "homepage": "https://github.com/chuguixin/fis-preprocessor-defines#readme"
+}
